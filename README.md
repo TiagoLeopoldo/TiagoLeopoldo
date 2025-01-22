@@ -1,5 +1,5 @@
 # Olá, eu sou o Tiago !  👋
-<h1 class="heading-element" dir="auto">📊 GitHub Stats:</h1>
+<h1 class="heading-element" dir="auto">📊 Meu GitHub:</h1>
 <div>
 <a href="https://github.com/TiagoLeopoldo">
 <img  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
