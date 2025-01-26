@@ -10,13 +10,13 @@
 <br>
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="" height="50"/>
 <br>
 <div>
 <h1 class="heading-element" dir="auto">📊 Meu GitHub:</h1>
 <a href="https://github.com/TiagoLeopoldo">
-<img  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-<img  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
+<img  width="50%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+<img width="50%"  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
 <div>
 
 ## Contatos:
