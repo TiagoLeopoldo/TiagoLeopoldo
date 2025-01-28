@@ -1,6 +1,5 @@
 # Olá, eu sou o Tiago !  👋
 # Sobre Mim
- ❤️Apaixonado por tecnologia e criar soluções.<br>
  🤓Estudando sempre....<br>
  🚧Construindo uma nova carreira (Transição de carreira_)<br>
  
