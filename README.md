@@ -1,7 +1,11 @@
 # Olá, eu sou o Tiago !  👋
 # Sobre Mim
- 🤓Estudando sempre....<br>
- 🚧Construindo uma nova carreira (Transição de carreira_)<br>
+🤓Estudando sempre....<br>
+🌱 Estou estudando Desenvolvimento Front-End.<br>
+🔭 Estou estudando para conseguir uma primeira oportunidade no mercado de Desenvolvimento Front-End.<br>
+🛠️ Estou aberto para colaborar em projetos com foco em Desenvolvimento Web.<br>
+⚡ Curiosidade sobre mim: Tenho mais de 10 anos de carreina na área de Gastrônomia.<br>
+🚧Construindo uma nova carreira (Transição de carreira_)<br>
  
 ## Ferramentas e Tecnologias
 
