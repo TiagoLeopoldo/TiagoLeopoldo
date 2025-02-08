@@ -7,7 +7,7 @@
 ⚡ Curiosidade sobre mim: Tenho mais de 10 anos de carreina na área de Gastrônomia.<br>
 🚧Construindo uma nova carreira (Transição de carreira_)<br>
  
-##Tecnologias
+## Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
 <br>
