@@ -16,11 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" height="25" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25"/>
 <br>
 
-<div>
-<h1 class="heading-element" dir="auto">📊 Meu GitHub:</h1>
-<a href="https://github.com/TiagoLeopoldo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
-<div>
 
 ## Contatos:
 <div>
