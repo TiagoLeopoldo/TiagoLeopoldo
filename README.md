@@ -39,10 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TiagoLeopoldo/TiagoLeopoldo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <img align="left" height="97" src="https://i.imgflip.com/8ufpld.gif"  />
