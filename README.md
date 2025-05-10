@@ -1,6 +1,4 @@
-<h2 align="left">Olá 👋!<br>Eu sou o Tiago!</h2>
-
-###
+# Olá, eu sou o Tiago!👋
 
 <h3 align="center">💻 Estudante de Front-End & ADS</h3>
 
