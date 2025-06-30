@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Olá 👋, eu sou o Tiago! 😁
 👩‍💻 Estudo atualmente Análise e Desenvolvimento de Sistemas;<br><br>🧠 Tenho conhecimento de front-end com JavaScript com React e estou focado em me tornar um desenvolvedor fullstack;<br><br>👯‍♀️ Procuro colaborar em soluções criativas para usuários de aplicações e ferramentas tecnológicas;<br>
 
 
