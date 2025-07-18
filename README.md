@@ -6,7 +6,7 @@
   </div>
 </div><br />
 
-<p><strong>About me</strong></p>
+<p><strong>Sobre mim</strong></p>
 
 Olá 👋, eu sou o Tiago! 😁<br />
 - 🤓 Sou Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento de Sistemas;<br />
