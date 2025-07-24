@@ -4,6 +4,7 @@
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </div>
+    <img src="https://github-profile-trophy.vercel.app/?username=TiagoLeopoldo&theme=tokyonight"/>
 </div><br />
 
 <p><strong>Sobre mim</strong></p>
