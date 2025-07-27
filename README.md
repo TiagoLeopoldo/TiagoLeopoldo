@@ -21,6 +21,29 @@ Olá 👋, eu sou o Tiago! 😁<br />
   <img src="https://skillicons.dev/icons?i=vscode,react,js,tailwind,css,html,nodejs,git,github&theme=dark" />
 </div>
 
+## &nbsp;Repositórios fixados
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/TiagoLeopoldo/playground-javascript">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" /> 
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Javascript Playground</h3>
+			<p>Roteiro de estudos Javascript.</p>
+			<a href="https://github.com/TiagoLeopoldo/playground-javascript">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-F0DB4F?style=for-the-badge" alt="Material de Apoio">
+			</a>
+			</td>
+		</tr></tbody></table>
 
 ## &nbsp;Contato
 
