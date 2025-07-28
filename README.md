@@ -1,4 +1,4 @@
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Desenvolvedor Front-end e Graduando em Análise e Desenvolvimento de Sistemas</h3>
 <div align="center">
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
