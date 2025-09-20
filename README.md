@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350em" src=""/>
+  <img height="350em" src="./assets/Github.png"/>
 </div>
 
 <h3 align="center">Desenvolvedor Front-end e Graduando em Análise e Desenvolvimento de Sistemas</h3>
