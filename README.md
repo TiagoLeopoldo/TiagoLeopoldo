@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="350em" src=""/>
+</div>
+
 <h3 align="center">Desenvolvedor Front-end e Graduando em Análise e Desenvolvimento de Sistemas</h3>
 <div align="center">
   <div align="center">  
@@ -11,14 +15,14 @@
 
 Olá 👋, eu sou o Tiago! 😁<br />
 - 🤓 Sou Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento de Sistemas;<br />
-- 🧠 Meu objetivo atual é me tornar um excelente Desenvolvedor Front-End;<br />
-- 🪛 Minha principal stack é Javascript com React.js;<br />
-- 😁 Sou uma pessoa prestativa, educada e respeitosa. Procuro sempre colaborar e aprender em projetos para alcançar o melhor resultado para o usuário;<br />
+- 🧠 Meu objetivo é sempre estar aprendendo para evoluir sempre minhas capacidades técnicas e comportamentais, na busca promover excelentes experiências para os usuários. ;<br />
+- 🪛 Minha linguagem principal é Javascript e escolhi trabalhar com React.js;<br />
+- 😁 Sou uma pessoa prestativa, educada e respeitosa. Procuro sempre colaborar e aprender em projetos para alcançar o melhor resultado do meu trabalho;<br />
 
 ## &nbsp;Minha Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,react,js,tailwind,css,html,nodejs,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,react,js,tailwind,css,html,git,github&theme=dark" />
 </div>
 
 ## &nbsp;Repositórios fixados
