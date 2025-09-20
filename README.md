@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350em" src="./assets/Github.png"/>
+  <img height="320em" src="./assets/Github.png"/>
 </div>
 
 <h3 align="center">Desenvolvedor Front-end</h3>
