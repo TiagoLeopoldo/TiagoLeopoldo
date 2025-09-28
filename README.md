@@ -6,19 +6,20 @@
 
 <div align="center">
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLeopoldo&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLeopoldo&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </div>
-    <img src="https://github-profile-trophy.vercel.app/?username=TiagoLeopoldo&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=TiagoLeopoldo&theme=gruvbox"/>
 </div><br />
 
 <p><strong>Sobre mim</strong></p>
 
 Olá 👋, eu sou o Tiago! 😁<br />
-- 🤓 Sou Desenvolvedor Front-End e Graduando em Análise e Desenvolvimento de Sistemas;<br />
-- 🧠 Meu objetivo é sempre estar aprendendo para evoluir sempre minhas capacidades técnicas e comportamentais, na busca promover excelentes experiências para os usuários. ;<br />
+- 💻 Desenvolvedor Front-End, com foco em React.js, JavaScript e TypeScript;<br />
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida ;<br />
 - 🪛 Minha linguagem principal é Javascript e escolhi trabalhar com React.js;<br />
-- 😁 Sou uma pessoa prestativa, educada e respeitosa. Procuro sempre colaborar e aprender em projetos para alcançar o melhor resultado do meu trabalho;<br />
+- 🤝 Colaborativo, curioso e sempre em busca de evolução técnica e pessoal;<br />
+- 🔥 Minha paixão por tecnologia nasceu da curiosidade e da vontade de fazer acontecer, mesmo quando tudo parecia fora do meu alcance; <br />
 
 ## &nbsp;Minha Stack
 
