@@ -45,7 +45,7 @@
 ## &nbsp;Minha Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,vite,nodejs,tailwind,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,vite,npm,yarn,nodejs,tailwind,git,github&theme=dark" />
 </div>
 
 ## &nbsp;Repositórios fixados
