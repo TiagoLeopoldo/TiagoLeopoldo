@@ -65,7 +65,7 @@
       </td>
 			<td valign="top">
 			<h3>Desafios de Lógica JS</h3>
-			<p>Desafios de estudo e pratica de Javascript.</p>
+			<p>Desafios de estudo prático de Javascript.</p>
 			<a href="https://github.com/TiagoLeopoldo/playground-javascript">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-F0DB4F?style=for-the-badge" alt="Material de Apoio">
 			</a>
