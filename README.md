@@ -64,8 +64,8 @@
       </a>
       </td>
 			<td valign="top">
-			<h3>Desafios de Lógica JS</h3>
-			<p>Desafios de estudo prático de Javascript.</p>
+			<h3>Desafios de Lógica de Programação em JS</h3>
+			<p>Desafios de estudo prático de Javascript. ~ fork do programa Estartando Dev's</p>
 			<a href="https://github.com/TiagoLeopoldo/Desafios_logica_programacao">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-F0DB4F?style=for-the-badge" alt="Material de Apoio">
 			</a>
