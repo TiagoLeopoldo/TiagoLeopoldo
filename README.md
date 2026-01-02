@@ -2,7 +2,7 @@
   <img height="320em" src="./assets/Github2.png"/>
 </div>
 
-<h1 align="center">Hello 👋, I' Tiago!😁</h1>
+<h1 align="center">Hello 👋, I'm Tiago!😁</h1>
 <ul>
   <li>💻 Front-End Developer with hands-on experience in React.js and TypeScript;</li>
   <li>🎓 Constantly improving academically and technically, currently pursuing a degree in Systems Analysis and Development;</li>
