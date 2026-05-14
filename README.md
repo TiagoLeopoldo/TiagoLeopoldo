@@ -6,7 +6,7 @@
 ### Sobre Mim
 Graduando em Análise e Desenvolvimento de Sistemas com experiência comercial no desenvolvimento de aplicações modernas e interfaces web responsivas. Trabalho diretamente no refinamento de Inteligências Artificiais (LLMs), possuo histórico em projetos globais e forte foco em resolução de problemas através de metodologias ágeis.
 
-* **Experiência Internacional:** Atuação em internacionalização de softwares(i18n) com o aauxílio de ferramentas de IA para traduções.
+* **Experiência Internacional:** Atuação em internacionalização de softwares(i18n) com o auxílio de ferramentas de IA para traduções.
 * **Projetos de Impacto:** Desenvolvimento completo do ecossistema de sustentabilidade Re.colhe, Plataforma Agenda Hip-Hop.
 
 ---
