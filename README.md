@@ -4,7 +4,8 @@
 </div>
 
 ### Sobre Mim
-Graduando em Análise e Desenvolvimento de Sistemas com experiência comercial no desenvolvimento de aplicações modernas e interfaces web responsivas. Trabalho diretamente no refinamento de Inteligências Artificiais (LLMs), possuo histórico em projetos globais e forte foco em resolução de problemas através de metodologias ágeis.
+Graduando em Análise e Desenvolvimento de Sistemas com experiência comercial no desenvolvimento de aplicações modernas e interfaces web responsivas. </br>
+Atualmente trabalho como freelancer atuando diretamente no refinamento de inteligências artificiais (LLMs) e possuo histórico em projetos globais e forte foco na resolução de problemas através de metodologias ágeis.
 
 * **Experiência Internacional:** Atuação em internacionalização de softwares(i18n) com o auxílio de ferramentas de IA para traduções.
 * **Projetos de Impacto:** Desenvolvimento completo do ecossistema de sustentabilidade Re.colhe, Plataforma Agenda Hip-Hop.
@@ -13,7 +14,7 @@ Graduando em Análise e Desenvolvimento de Sistemas com experiência comercial n
 
 ### Experiência Profissional
 
-* **Outlier** | AI Training Specialist - Tier 3 *(2026 - Presente)*
+* **Outlier** | AI Training Specialist (freelancer) *(2026 - Presente)*
 * **Estartando Dev's** | Desenvolvedor Front-end React *(2025)* / Monitor do curso de Back-end .Net *(2026 - Presente)*
 * **Martspec LLC (EUA)** | Estágio em Desenvolvimento Front-end *(2025)*
 
