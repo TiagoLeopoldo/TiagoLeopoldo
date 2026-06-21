@@ -14,7 +14,6 @@ Atualmente trabalho como freelancer atuando diretamente no refinamento de inteli
 
 ### Experiência Profissional
 
-* **Outlier** | AI Training Specialist (freelancer) *(2026 - Presente)*
 * **Estartando Dev's** | Desenvolvedor Front-end React *(2025)* / Monitor do curso de Back-end .Net *(2026 - Presente)*
 * **Martspec LLC (EUA)** | Estágio em Desenvolvimento Front-end *(2025)*
 
