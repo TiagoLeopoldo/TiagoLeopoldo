@@ -88,11 +88,6 @@ Atualmente trabalho como freelancer atuando diretamente no refinamento de inteli
       <br />
       <span>PostgreSQL</span>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dot Net Core logo"/>
-      <br />
-      <span>.Net</span>
-    </td>
   </tr>
 </table>
 
@@ -110,12 +105,6 @@ Atualmente trabalho como freelancer atuando diretamente no refinamento de inteli
       <br />
       <span>TypeScript</span>
       </br><span>★★★★☆</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo"/>
-      <br />
-      <span>C#</span>
-      </br><span>★★☆☆☆</span>
     </td>
   </tr>
 </table>
@@ -137,16 +126,6 @@ Atualmente trabalho como freelancer atuando diretamente no refinamento de inteli
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman logo"/>
       <br />
       <span>Postman</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma logo"/>
-      <br />
-      <span>Prisma</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo"/>
-      <br />
-      <span>Vercel</span>
     </td>
   </tr>
 </table>
